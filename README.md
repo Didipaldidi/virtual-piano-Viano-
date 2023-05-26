@@ -3,7 +3,7 @@
 This is a python project that is inspired by **Navendu-Pottekkat(2020) virtual-drums (https://github.com/navendu-pottekkat/virtual-drums)**, however I modified the projec, turing it into a program that allows the user to play a number of piano chords virtually.
 
 ## Requirements For Initial Setup:
-- install openCV, Tkinter, Numpy, and Pygame libraries
+- Install openCV, Tkinter, Numpy, and Pygame libraries
 
 
 
