@@ -2,10 +2,12 @@
 
 This is a python project that is inspired by **Navendu-Pottekkat(2020) virtual-drums (https://github.com/navendu-pottekkat/virtual-drums)**
 
-This project uses openCV, Tkinter, Numpy, and Pygame libraries
+## Requirements For Initial Setup:
+- install openCV, Tkinter, Numpy, and Pygame libraries
 
 This is a program that allows the user to play a number of piano chords virtually.
 
+## How it works:
 When this program is run it will display a window that allows the user to enter an integer for how many chords.
 
 ![The selection page](https://user-images.githubusercontent.com/64215294/229029747-89bae02a-3a96-4d80-8a9f-7cd794508da4.jpg)
