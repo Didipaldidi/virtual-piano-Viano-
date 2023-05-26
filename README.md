@@ -1,6 +1,6 @@
 # virtual-piano-Viano-
 
-This is a python project that is inspired by Navendu-Pottekkat(2020) virtual-drums (https://github.com/navendu-pottekkat/virtual-drums)
+This is a python project that is inspired by _Navendu-Pottekkat(2020) virtual-drums (https://github.com/navendu-pottekkat/virtual-drums)
 
 This project uses openCV, Tkinter, Numpy, and Pygame libraries
 
