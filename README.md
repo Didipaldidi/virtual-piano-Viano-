@@ -1,11 +1,11 @@
 # virtual-piano-Viano-
 
-This is a python project that is inspired by **Navendu-Pottekkat(2020) virtual-drums (https://github.com/navendu-pottekkat/virtual-drums)**
+This is a python project that is inspired by **Navendu-Pottekkat(2020) virtual-drums (https://github.com/navendu-pottekkat/virtual-drums)**, however I modified the projec, turing it into a program that allows the user to play a number of piano chords virtually.
 
 ## Requirements For Initial Setup:
 - install openCV, Tkinter, Numpy, and Pygame libraries
 
-This is a program that allows the user to play a number of piano chords virtually.
+
 
 ## How it works:
 When this program is run it will display a window that allows the user to enter an integer for how many chords.
